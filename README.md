@@ -1,4 +1,7 @@
 # Defi Yield Aggregator
+
+![YieldAgg0](https://user-images.githubusercontent.com/72430760/160910620-008a1272-f85f-4707-9183-90d0925e98f6.png)
+
 This project is a simple decentrialized app where a user can deposit DAI into our smart contract.
 Once funds are deposited, the contract compares the interest rate of Compound & Aave, and deposits
 funds to whichever has the highest interest rate. The user can rebalance his/her funds to ensure
